@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.0\01. Define an Interface IPerson.deps.json
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.0\01. Define an Interface IPerson.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.0\01. Define an Interface IPerson.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.0\01. Define an Interface IPerson.dll
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\netcoreapp2.0\01. Define an Interface IPerson.pdb
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.dll
+E:\Coding\SoftUni\C# OOP Basics\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\netcoreapp2.0\01. Define an Interface IPerson.pdb
