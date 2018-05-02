@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\bin\Debug\Exam Preparation I – Need For Speed.exe.config
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\bin\Debug\Exam Preparation I – Need For Speed.exe
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\bin\Debug\Exam Preparation I – Need For Speed.pdb
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\obj\Debug\Exam Preparation I – Need For Speed.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\obj\Debug\Exam Preparation I – Need For Speed.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\obj\Debug\Exam Preparation I – Need For Speed.exe
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam Preparation I – Need For Speed\Exam Preparation I – Need For Speed\obj\Debug\Exam Preparation I – Need For Speed.pdb
