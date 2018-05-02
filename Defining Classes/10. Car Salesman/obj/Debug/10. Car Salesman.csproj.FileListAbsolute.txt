@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe.config
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\bin\Debug\_10.Car_Salesman.pdb
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\obj\Debug\10. Car Salesman.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\obj\Debug\_10.Car_Salesman.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\obj\Debug\_10.Car_Salesman.pdb
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\10. Car Salesman\obj\Debug\10. Car Salesman.csprojResolveAssemblyReference.cache

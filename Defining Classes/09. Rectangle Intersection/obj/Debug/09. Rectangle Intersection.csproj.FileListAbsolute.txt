@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\obj\Debug\09. Rectangle Intersection.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\obj\Debug\09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.exe.config
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\bin\Debug\_09.Rectangle_Intersection.pdb
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\obj\Debug\_09.Rectangle_Intersection.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\09. Rectangle Intersection\obj\Debug\_09.Rectangle_Intersection.pdb

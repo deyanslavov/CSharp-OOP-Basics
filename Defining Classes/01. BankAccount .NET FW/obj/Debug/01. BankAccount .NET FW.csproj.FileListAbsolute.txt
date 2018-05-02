@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\bin\Debug\_01.BankAccount.NET_FW.exe.config
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\bin\Debug\_01.BankAccount.NET_FW.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\bin\Debug\_01.BankAccount.NET_FW.pdb
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\obj\Debug\01. BankAccount .NET FW.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\obj\Debug\01. BankAccount .NET FW.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\obj\Debug\_01.BankAccount.NET_FW.exe
+E:\Coding\SoftUni\C# OOP Basics\Defining Classes\01. BankAccount .NET FW\obj\Debug\_01.BankAccount.NET_FW.pdb
