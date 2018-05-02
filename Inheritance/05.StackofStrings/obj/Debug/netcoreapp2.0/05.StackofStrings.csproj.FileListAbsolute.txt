@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\bin\Debug\netcoreapp2.0\05.StackofStrings.deps.json
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\bin\Debug\netcoreapp2.0\05.StackofStrings.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\bin\Debug\netcoreapp2.0\05.StackofStrings.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\bin\Debug\netcoreapp2.0\05.StackofStrings.dll
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\bin\Debug\netcoreapp2.0\05.StackofStrings.pdb
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.dll
+E:\Coding\SoftUni\C# OOP Basics\Inheritance\05.StackofStrings\obj\Debug\netcoreapp2.0\05.StackofStrings.pdb
